@@ -1,0 +1,6 @@
+name: Bridge
+version: 0.0.1-SNAPSHOT
+author: Protocol Development Team
+main: rip.protocol.bridge.bukkit.Bridge
+depend:
+  - pLib

@@ -1,0 +1,24 @@
+redis:
+  host: "127.0.0.1"
+  port: "6379"
+  password: ""
+  db: "0"
+  channel: "bridgepacket"
+
+mongo:
+  host: "127.0.0.1"
+  port: "27017"
+  database: "BridgeBungee"
+  auth:
+    enabled: "true"
+    username: "admin"
+    password: "password"
+
+serverDisplayName: "Protocol Network"
+serverWebsite: "protocol.rip"
+kickIfPunished: "true"
+
+servername: "BridgeServer"
+servergroup: "Bridge"
+
+pluginUpdateDirectory: "%user_home%/updater"
